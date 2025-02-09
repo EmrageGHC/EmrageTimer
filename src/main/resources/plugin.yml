@@ -1,0 +1,6 @@
+name: EmrageTimer
+version: '1.0-SNAPSHOT'
+main: org.emrage.emrageTimer.Main
+api-version: '1.21'
+commands:
+  timer:

@@ -1,0 +1,12 @@
+timer-seconds: 643
+gradient-color1: '#707CF7'
+gradient-color2: '#F658CF'
+profiles:
+  BastiGHG:
+    color1: '#707CF7'
+    color2: '#F658CF'
+  GreenBlack:
+    color1: '#00FF00'
+    color2: '#000000'
+idle-message: <gold><italic>Idle</italic></gold>
+timer-message: <gradient:%color1%:%color2%:%offset%><b>%time%</b></gradient>

@@ -1,0 +1,10 @@
+timer-seconds: 0
+show-timer: true
+stop-on-death: false
+stop-on-empty: false
+gradient-color1: "#707CF7"
+gradient-color2: "#F658CF"
+idle-message: "<gold><italic>Idle</italic></gold>"
+timer-message: "<gradient:%color1%:%color2%:%offset%><b>%time%</b></gradient>"
+profiles: {}
+timer-direction: "forwards"
